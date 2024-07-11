@@ -1,0 +1,35 @@
+current_name,nickname,abbrev,team_colours,second_colour,backup_team_colours,backup_second_colour,prem_colour,team_url_men,team_url_women
+Annandale,DRLFC,ANN,#faa31a,#7f0000,NA,NA,red,/wiki/Annandale_(rugby_league_team),NA
+Balmain,Tigers,BAL,#f68b1f,black,NA,NA,gold,/wiki/Balmain_Tigers,NA
+Canterbury-Bankstown,Bulldogs,CBY,#0054a4,white,NA,NA,red,/wiki/Canterbury-Bankstown_Bulldogs,NA
+Cumberland,Fruitpickers,CUM,#013483,#fff802,NA,NA,red,/wiki/Cumberland_(rugby_league_team),NA
+Sydney,Roosters,SYD,#00305e,#e82c2e,NA,NA,gold,/wiki/Sydney_Roosters,NA
+Glebe,Dirty Reds,GLE,#b01f24,white,NA,NA,red,/wiki/Glebe_Dirty_Reds,NA
+Newcastle,Rebels,REB,#f00303,white,NA,NA,red,/wiki/Newcastle_Rebels,NA
+Newtown,Jets,JET,#1c3f95,white,NA,NA,red,/wiki/Newtown_Jets,NA
+North Sydney,Bears,NOR,red,black,NA,NA,gold,/wiki/North_Sydney_Bears,NA
+South Sydney,Rabbitohs,SOU,#08800f,#fd0018,NA,NA,gold,/wiki/South_Sydney_Rabbitohs,NA
+St. George,Dragons,STG,#e2231b,white,NA,NA,gold,/wiki/St._George_Dragons,NA
+Sydney University,RLFC,UNI,#ffcc00,#0000bb,NA,NA,red,/wiki/Sydney_University_RLFC,NA
+Western Suburbs,Magpies,WES,black,white,NA,NA,red,/wiki/Western_Suburbs_Magpies,NA
+Manly-Warringah,Sea Eagles,MAN,#6f163d,white,NA,NA,red,/wiki/Manly_Warringah_Sea_Eagles,NA
+Parramatta,Eels,PAR,#006eb5,#ffd327,NA,NA,red,/wiki/Parramatta_Eels,NA
+Cronulla-Sutherland,Sharks,CRO,#00a9d8,black,NA,NA,red,/wiki/Cronulla-Sutherland_Sharks,NA
+Penrith,Panthers,PEN,black,#e22726,NA,NA,gold,/wiki/Penrith_Panthers,NA
+Canberra,Raiders,CAN,#94c949,white,NA,NA,red,/wiki/Canberra_Raiders,NA
+Illawarra,Steelers,ILA,#eb2100,white,NA,NA,red,/wiki/Illawarra_Steelers,NA
+Brisbane,Broncos,BRI,#760135,#fbbf15,NA,NA,red,/wiki/Brisbane_Broncos,NA
+Gold Coast,Chargers,GCC,#a8a8a8,black,NA,NA,red,/wiki/Gold_Coast_Chargers,NA
+Newcastle,Knights,NEW,#0054a6,#e92d2b,NA,NA,gold,/wiki/Newcastle_Knights,NA
+New Zealand,Warriors,NZL,#0d318d,#03673f,NA,NA,red,/wiki/New_Zealand_Warriors,NA
+North Queensland,Cowboys,NQL,#002b5c,#ffdd00,NA,NA,red,/wiki/North Queensland_Cowboys,NA
+South Queensland,Crushers,SQC,#c59d57,#000059,NA,NA,red,/wiki/South Queensland_Crushers,NA
+Perth,Reds,PER,#ee2d36,#ffe403,NA,NA,red,/wiki/WA_Reds,NA
+Adelaide,Rams,ADE,#2a49c1,red,NA,NA,gold,/wiki/Adelaide_Rams,NA
+Hunter,Mariners,HUN,#06117d,#ffe612,NA,NA,red,/wiki/Hunter_Mariners,NA
+Melbourne,Storm,MEL,#512d82,#092340,NA,NA,red,/wiki/Melbourne_Storm,NA
+St. George Illawarra,Dragons,SGI,#e2231b,white,NA,NA,gold,/wiki/St._George_Illawarra_Dragons,NA
+Wests,Tigers,WTI,#f68b1f,black,NA,NA,red,/wiki/Wests_Tigers,NA
+Northern,Eagles,NTE,#6f163d,black,NA,NA,red,/wiki/Northern_Eagles,NA
+Gold Coast,Titans,GCT,#0078b4,#fbb03f,NA,NA,red,/wiki/Gold_Coast_Chargers,NA
+NRL,Dolphins,DOL,#fa161c,white,NA,NA,red,/wiki/Dolphins_(NRL),NA
